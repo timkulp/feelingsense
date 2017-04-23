@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>VisionSense</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\cloak\Documents\UnityProjects\VisionSense\builds\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\cloak\Documents\UnityProjects\VisionSense\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

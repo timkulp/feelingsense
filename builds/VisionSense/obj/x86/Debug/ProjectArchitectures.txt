@@ -1,0 +1,4 @@
+C:\Users\cloak\Documents\UnityProjects\VisionSense\builds\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\cloak\Documents\UnityProjects\VisionSense\builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\cloak\Documents\UnityProjects\VisionSense\builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\cloak\Documents\UnityProjects\VisionSense\builds\VisionSense\VisionSense.csproj;x86
